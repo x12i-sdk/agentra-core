@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Core utilities and domain logic for Agentra.
-- A Agentra integration needs to reuse the capabilities of @x12i/agentra-core inside a larger application.
+- Use shared Agentra domain utilities in a consumer.
+- Validate a supported event contract before composing a larger analytics operation.
 
 ## Links
 
