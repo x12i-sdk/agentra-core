@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-core",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-core",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-core",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/core",
+  "example": {
+    "title": "Validate incoming JSON and report contract errors",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:31:26.994188+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "a9f348a9207f6995f4558c93d1744bba074b81633e65cfb680af96bb4b3a48a9",
+    "manifestSha256": "e9bb62c63f5d4b2db07b6324867f5ff6056a8eadac6e998044cc81ec42757929"
+  }
+}
